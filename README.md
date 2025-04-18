@@ -1,8 +1,4 @@
-Tabii! Aşağıda daha düzgün, profesyonel ve sade bir İngilizce ile hazırlanmış bir `README.md` dosyası bulabilirsin. GitHub reposu için direkt kullanabilirsin:
 
----
-
-```markdown
 # 🖥️ Iframe Manager
 
 **Iframe Manager** is a lightweight web tool that allows users to generate multiple iframes of a given URL for a specified duration.  
@@ -43,7 +39,7 @@ git clone https://github.com/yourusername/iframe-manager.git
 2. Open the `index.html` file in your browser.
 
 3. Enter:
-   - A URL (e.g., `https://kick.com/example`)
+   - A URL (e.g., `example.com`)
    - Number of iframes (e.g., 12)
    - Duration (e.g., 10 minutes)
 
