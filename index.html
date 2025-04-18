@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Iframe Manager</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Iframe Manager</h1>
+    
+    <div class="input-section">
+      <label>URL</label>
+      <input type="text" id="url" placeholder="example.com" />
+      
+      <label>Number of Iframes</label>
+      <input type="number" id="iframeCount" placeholder="12" min="1" />
+      
+      <label>Duration (minutes)</label>
+      <input type="number" id="duration" placeholder="10" min="1" />
+      
+      <button onclick="generateIframes()">Generate Iframes</button>
+    </div>
+
+    <div class="timer-section">
+      <p>Time Remaining: <span id="timer">00:00</span></p>
+      <div class="progress-bar"><div id="progress"></div></div>
+    </div>
+
+    <div id="iframeContainer"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
