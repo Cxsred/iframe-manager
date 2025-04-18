@@ -1,5 +1,5 @@
 
-# 🖥️ Iframe Manager
+🖥️ Iframe Manager
 
 **Iframe Manager** is a lightweight web tool that allows users to generate multiple iframes of a given URL for a specified duration.  
 This project is created purely for **educational and demonstration purposes**.
@@ -8,7 +8,7 @@ This project is created purely for **educational and demonstration purposes**.
 
 ---
 
-## 🔧 Features
+ 🔧 Features
 
 - Input any URL
 - Choose the number of iframes to generate
@@ -19,7 +19,7 @@ This project is created purely for **educational and demonstration purposes**.
 
 ---
 
-## 🧪 Possible Use Cases
+ 🧪 Possible Use Cases
 
 - Web layout or UI stress testing
 - Demonstrating iframe behavior in browser environments
@@ -75,6 +75,4 @@ This project should not be used to:
 - Violate the terms of service of any website
 
 The creator is not responsible for any misuse or consequences arising from the use of this project.
-```
 
----
